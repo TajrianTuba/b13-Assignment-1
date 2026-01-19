@@ -1,0 +1,95 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+*{
+    margin :0;
+    padding:0;
+    box-sizing:border-box ;
+}
+body{
+    font-family: "Noto Serif", serif;
+}
+.container{
+    max-width: 1300px;
+    padding: 30px;
+    margin: 0 auto;
+
+
+
+
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:0.5px;
+}
+
+
+.nav_items  {
+
+
+    display: flex;
+    gap: 380px;
+    align-items: middle;
+
+
+}
+
+
+.nav_items li{
+    list-style: None;
+}
+.nav_items a{
+    text-decoration: None;
+    color: black;
+}
+
+
+/* hero section */
+.hero_section{
+    background: url("../Banner.png");
+    width: 1600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 448px;
+}
+.hero1{
+    gap: 600px;
+    background: url("../Second\ Brain\ Section.png");
+
+
+    width: 1300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+   
+}
+.hero2{
+   
+    background: url("../Early\ Access\ Section.png");
+    width: 1600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 506px;
+}
+.hero4{
+   
+    background: url("../Footer.png");
+    width: 1600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 348px;
+     
+}
+
+
