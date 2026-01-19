@@ -53,7 +53,7 @@ body{
 
 /* hero section */
 .hero_section{
-    background: url("../Banner.png");
+    background: url("../Sections/Banner.png");
     width: 1600px;
     background-repeat: no-repeat;
     background-position: center;
@@ -62,7 +62,7 @@ body{
 }
 .hero1{
     gap: 600px;
-    background: url("../Second\ Brain\ Section.png");
+    background: url("../Sections/Second\ Brain\ Section.png");
 
 
     width: 1300px;
@@ -74,7 +74,7 @@ body{
 }
 .hero2{
    
-    background: url("../Early\ Access\ Section.png");
+    background: url("../Sections/Early\ Access\ Section.png");
     width: 1600px;
     background-repeat: no-repeat;
     background-position: center;
@@ -83,7 +83,7 @@ body{
 }
 .hero4{
    
-    background: url("../Footer.png");
+    background: url("../Sections/Footer.png");
     width: 1600px;
     background-repeat: no-repeat;
     background-position: center;
